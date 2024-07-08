@@ -1,7 +1,7 @@
 {
-  "name": "venocyber-md",
+  "name": "shakira-md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/kingjux/Venocyber-md/blob/main/lib/assets/logo.png?raw=true",
+  "logo": "https://github.com/basanzietech/shakira-md/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["VENOCYBER-MD", "VENOCYBER", "VENOCYBER MD BOT","VENOCYBER MD","venocyber","venocybertech"],
   "success_url": "/",
   "stack": "container",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑-𝐓𝐄𝐂𝐇",
+      "value": "basanzietech",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑 𝐌𝐃 𝐰𝐚𝐛𝐨𝐭𝐬"
+      "value": "shakira-md"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -90,7 +90,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255625774543"
+      "value": "255657779003"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -102,12 +102,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "VENOCYBER",
+      "value": "shakira-md",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "TECH",
+      "value": "WhatsappBot",
       "required": false
     }
   },
