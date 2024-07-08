@@ -3,7 +3,6 @@
 <h1 align="center"> shakira-𝗺𝗱 </h1> 
 <p align="center"> Introducing shakira-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![basanzietech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+basanzietech+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/basanzietech)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -154,16 +153,3 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - [Suhail Ser](https://github.com/SuhailTechInfo)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `𝗩𝗘𝗡𝗢𝗖𝗬𝗕𝗘𝗥 𝗠𝗗` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl)
- 
-  ##
-  
-  * [`𝐝𝐨𝐧'𝐭 𝐞𝐯𝐞𝐧 𝐡𝐚𝐯𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭` How To setup Github 1st step `𝒄𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆`](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
-  
- * Deploy on Heroku Video ⇓
- <p align="left">
-<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/75671c3784389fa525fcd.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
