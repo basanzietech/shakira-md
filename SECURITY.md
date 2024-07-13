@@ -14,4 +14,4 @@ Please Use Node Version Higher to Get The Best Performance.
 ## Reporting a Vulnerability
 
 
-## powered by VENOCYBER MD
+## powered by SHAKIRA MD
