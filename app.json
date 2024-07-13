@@ -2,7 +2,7 @@
   "name": "shakira-md",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/basanzietech/shakira-md/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["VENOCYBER-MD", "VENOCYBER", "VENOCYBER MD BOT","VENOCYBER MD","venocyber","venocybertech"],
+  "keywords": ["SHAKIRA-MD", "SHAKIRA", "SHAKIRA MD BOT","SHAKIRA MD","shakira","basanzietech"],
   "success_url": "/",
   "stack": "container",
 
@@ -32,7 +32,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Dar es salaam"
+      "value": "Africa/Dar_es_Salaam"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
