@@ -7,5 +7,5 @@
 
 # SHAKIRA MD
 <a 
-  <img src="https://contrib.rocks/image?repo=SamSpeedx/kibalanga-hospital" />
+  <img src="https://contrib.rocks/image?repo=basanzietech/shakira-md" />
 </a>
