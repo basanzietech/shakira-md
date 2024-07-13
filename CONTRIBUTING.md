@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# VENOCYBER MD
-
-You can send anything via VODACOM Mpesa number 0749614269 <b>JASTIN ASHERY MTEWA</b>
+# SHAKIRA MD
+<a href="https://github.com/basanzietech/shakira-md/graphs/contributors">
+  
