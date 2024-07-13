@@ -6,10 +6,7 @@
 
 [![basanzietech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+basanzietech+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/basanzietech)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/basanzietech/shakira-md">
     <img alt="shakira docs" height="300" src="https://telegra.ph/file/e11bafaedba6aebcd9410.jpg">
@@ -17,8 +14,6 @@
 </p>
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   
    
 <p align="center">
   <a href="https://wa.me/+255657779003?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+shakira-md+Repo" target="_blank">
@@ -51,7 +46,7 @@
 <p align="center">
   <a href="https://github.com/basanzietech/shakira-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750" Width="450"></a>
   
-  <a href="https://github.com/basanzietech/shakira-md"><img src="https://img.shields.io/badge/DEPLOYN-GITHUB-black?style=for-the-badge&logo=github&deploy&logoColor=black" With="451"></a>
+  <a href="https://github.com/basanzietech/shakira-md"><img src="https://img.shields.io/badge/DEPLOYN-GITHUB-black?style=for-the-badge&logo=github&deploy&logoColor=black" With="450"></a>
 </p>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbasanzietech%2Fshakira-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098" Width="450"></a>
@@ -63,19 +58,9 @@
 <p align="center">Need help? please create an <a href="https://github.com/basanzietech/shakira-md/issues">issue</a></p>
 
  
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
-
-
-
 <h3>Shakira-MD Stats</h3>
 
 ![shakira-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=basanzietech&repo=shakira-md&show_owner=true&theme=dark)
@@ -88,13 +73,13 @@
 if scan qr is not working please try using pairing code i am currently working on it
 ---
 
-2.  [`PARING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+1.  [`PARING CODE`](https://shakira-md-session.onrender.com).
     <br>
-<a href="https://shakira-md-session.onrender.com"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 -h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://shakira-md-session.onrender.com"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
-3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-4.  ***Click [`FORK`](https://github.com/basanzietech/shakira-md/fork) and `Star ⭐ Repository` for Courage.***
+
+2.  ***Click [`FORK`](https://github.com/basanzietech/shakira-md/fork) and `Star ⭐ Repository` for Courage.***
 ##
 ---
 
