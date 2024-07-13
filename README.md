@@ -74,8 +74,7 @@ if scan qr is not working please try using pairing code i am currently working o
 ---
 
 1.  [`PARING CODE`](https://shakira-md-session.onrender.com).
-    <br>
-<a href="https://shakira-md-session.onrender.com"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 color=green&style=for-the-badge&logo=msi"></a>
+    
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 
