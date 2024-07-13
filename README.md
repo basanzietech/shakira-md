@@ -50,7 +50,8 @@
 
 <p align="center">
   <a href="https://github.com/basanzietech/shakira-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750" Width="450"></a>
-  <a href="https"><img src="https://img.shields.io/badge/Deployn-Github-black?style=for-the-badge&logo=github&logoColor=black" With="450"></a>
+  
+  <a href="https"><img src="https://img.shields.io/badge/Deployn-Github-black?style=for-the-badge&logo=github&deploy&logoColor=black" With="450"></a>
 </p>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbasanzietech%2Fshakira-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098" Width="450"></a>
