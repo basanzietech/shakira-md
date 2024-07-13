@@ -6,6 +6,6 @@
 
 
 # SHAKIRA MD
-<a href="https://github.com/SamSpeedx/kibalanga-hospital/graphs/contributors">
+<a 
   <img src="https://contrib.rocks/image?repo=SamSpeedx/kibalanga-hospital" />
 </a>
