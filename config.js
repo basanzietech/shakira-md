@@ -16,7 +16,7 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es sala
 global.github = process.env.GITHUB || "https://github.com/basanzietech/shakira-md";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaJX1NzCxoAyVGHlfY2l";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaJX1NzCxoAyVGHlfY2l";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/e11bafaedba6aebcd9410.jpg";
 global.devs = "255657779003";
 global.sudo = process.env.SUDO || "255657779003";
 global.owner = process.env.OWNER_NUMBER || "255657779003";
@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "basanzietech | shakira-md you need support? https://whatsapp.com/channel/0029VaJX1NzCxoAyVGHlfY2l",
+  caption: process.env.CAPTION || "💻basanzietech | shakira-md❤️",
   author: process.env.PACK_AUTHER || "basanzietech",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "shakira-md",
